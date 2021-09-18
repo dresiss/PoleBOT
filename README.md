@@ -6,3 +6,4 @@ Este código hace la pole, porque... ¿Quién quiere estar atento para hacer la 
 - Python3
 - pip3 install schedule
 - APIKey de Telegram
+- Telethon
